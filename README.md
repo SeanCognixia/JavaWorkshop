@@ -1,2 +1,6 @@
-Code for our TicTacToe app from Cognixia's Java Tech Workshop
-[embed]https://github.com/SeanCognixia/JavaWorkshop/blob/main/Java%20Tech%20Workshop.pdf[/embed]
+# Java Tech Workshop by Cognixia
+
+Here you can find the source code for the Tic-Tac-Toe built during our Java Workshop. 
+Additionally you can find a pdf to help supplement the code-along. 
+Thanks for your participation!
+
